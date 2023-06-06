@@ -1,4 +1,5 @@
 # Termux-DesktopV1
+clone repository : https://github.com/ApheyV3/Termux-DesktopV1
 cd Termux-DesktopV1 
 bash termuxdesktop.sh
 install vcviewer on playstore
